@@ -12,6 +12,6 @@
 
 📚 On a learning spree with AWS Certifications and delving into the complexities of combining AI with Software in non-traditional ways.<br>
 
-⚡ Fun fact: I once engineered a [Raspberry Pi-based autonomous car]([url](https://github.com/ChaitanyaKharche/AutonomousCar)) for a tech fest — it dodged obstacles like a pro! Thrill-seeker by nature, whether coding at a hackathon or scaling the nearest mountain peak!<br>
+⚡ Fun fact: I once engineered a [Raspberry Pi-based autonomous car]((https://github.com/ChaitanyaKharche/AutonomousCar) for a tech fest — it dodged obstacles like a pro! Thrill-seeker by nature, whether coding at a hackathon or scaling the nearest mountain peak!<br>
 
 
