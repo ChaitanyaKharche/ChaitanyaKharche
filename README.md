@@ -1,5 +1,4 @@
-### Hi there 👋
-Digital Explorer (Engineer/Innovator/Adventurer)
+### Digital Explorer (Engineer/Innovator/Adventurer) 👋
 
 <b>Northeastern University</b> - Student; Coder <br>
 
