@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**ChaitanyaKharche/ChaitanyaKharche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Digital Explorer (Engineer/Innovator/Adventurer)
 
 Northeastern University - Student; Former Intern at Stealth Startup
