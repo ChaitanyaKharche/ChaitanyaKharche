@@ -1,4 +1,6 @@
-### Digital Explorer 👋  
+### > **“Vibe code your bad ideas today, so you don’t deploy them tomorrow.”**
+> — Sun Tzu, *The Art of Vibe* ☯️
+
 **M.S. Computer Science ’25 | Northeastern University**  
 
 – 🚀 Software engineer building scalable Gen‑AI, cloud & web apps  
