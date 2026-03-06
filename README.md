@@ -1,5 +1,5 @@
 > **“Vibe code your bad ideas today, so you don’t deploy them tomorrow.”**
-> — Sun Tzu, *The Art of Vibe* ☯️
+> — Sun Tzu ☯️
 
 **M.S. Computer Science ’25 | Northeastern University**  
 
